@@ -10,3 +10,4 @@ http://bundletripbychat.com/
 
 ## 상세내용
 프로젝트에 관한 자세한 내용은 아래 repository를 참조 부탁드립니다. 
+https://github.com/sunse-kwon/ormi-django-project2
