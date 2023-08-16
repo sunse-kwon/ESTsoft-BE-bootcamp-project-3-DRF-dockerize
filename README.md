@@ -7,7 +7,7 @@
 - 2023.08.10~2023.08.16
 
 ## 배포 URL
-- http://bundletripbychat.com/
+- bundletripbychat.com
 
 ## 상세내용
 - 프로젝트에 관한 자세한 내용은 아래 repository를 참조 부탁드립니다. 
