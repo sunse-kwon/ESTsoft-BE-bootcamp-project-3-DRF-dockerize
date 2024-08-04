@@ -34,8 +34,8 @@ AWS EC2, PostgreSQL, Gunicorn, Nginx, Docker를 사용하여 백엔드 서버 �
 ### 기능 기획
 ![django-rest-chatgpt-mindmap](https://github.com/sunse-kwon/ormi-django-project2/assets/94329884/fbfaf79e-45d9-4a63-ba19-d2d4b1ea6445)
 - 초기에 JWT를 사용한 인증을 계획했지만, 세부적인 이해가 부족하여 필요한 기능 구현에 어려움을 겪었습니다.
-  
-### 기능 세부사항
+
+### 기능 세부사항
 - ChatGPT API와 프론트엔드와 통신하기 위해 챗봇 앱에 API를 구현했습니다.
 - Simple JWT를 사용하여 회원 가입 API 및 로그인/토큰 갱신 API를 개발했습니다.
 - view.py에서 JWT 유효성 검사 API를 구현하여 사용자 로그인 상태에 따라 로그아웃 버튼을 동적으로 표시/숨깁니다.
