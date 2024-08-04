@@ -23,7 +23,7 @@ AWS EC2, PostgreSQL, Gunicorn, Nginx, Docker를 사용하여 백엔드 서버 �
 - 2023.07.26 ~ 2023.08.02 (개발기간)
 - 2023.08.10 ~ 2023.08.16 (도커 컨테이너를 사용하여 원래 프로젝트 재구성)
 
-### 배포 URL
+### 배포 URL
 - http://bundletripbychat.com/
 
 ### ERD 기획
